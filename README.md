@@ -1,4 +1,4 @@
-[![Build Status](https://travis-ci.org/evergreen-ci/go-test2json.svg?branch=master)](https://travis-ci.org/evergreen-ci-go-test2json)
+[![Build Status](https://travis-ci.org/evergreen-ci/go-test2json.svg?branch=master)](https://travis-ci.org/evergreen-ci/go-test2json)
 [![](https://godoc.org/github.com/evergreen-ci/go-test2json?status.svg)](http://godoc.org/github.com/evergreen-ci/go-test2json)
 
 

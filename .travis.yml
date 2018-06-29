@@ -1,7 +1,6 @@
 sudo: false
 language: go
 go:
-  - 1.8.x
   - 1.9.x
   - 1.10.x
   - master
@@ -11,6 +10,7 @@ install:
 
 before_script:
   - gometalinter --force --install
+  - go get -t -v .
 
 script:
   - make all
